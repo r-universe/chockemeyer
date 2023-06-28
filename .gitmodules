@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CDSS"]
 	path = CDSS
 	url = https://github.com/cran/CDSS
-	shallow = true
-	registered = true
 [submodule "kst"]
 	path = kst
 	url = https://github.com/cran/kst
-	shallow = true
-	registered = true
 [submodule "kstIO"]
 	path = kstIO
 	url = https://github.com/cran/kstIO
-	shallow = true
-	registered = true
 [submodule "kstMatrix"]
 	path = kstMatrix
 	url = https://github.com/cran/kstMatrix
-	shallow = true
-	registered = true
