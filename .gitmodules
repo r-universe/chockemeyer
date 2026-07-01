@@ -5,6 +5,9 @@
 [submodule "CDSS"]
 	path = CDSS
 	url = https://github.com/cran/CDSS
+[submodule "CbKST"]
+	path = CbKST
+	url = https://github.com/cran/CbKST
 [submodule "kst"]
 	path = kst
 	url = https://github.com/cran/kst
